@@ -1,0 +1,9 @@
+# Resumen de la semana 2
+
+Después de estudiar y analizar las tres filosofías creo que durante ese periodo del siglo XX las matemáticas dieron una evolución considerable, pues las diferentes posturas que las escuelas tenían  hizo que los matemáticos confrontaran sus ideas y pensamientos, y al final la que gano fue la propia matemática. Quiero destacar los puntos principales que cada escuela aportó, y que considero importantes hoy en día en el estudio de las matemáticas.
+
+* **Logicismo:** Desarrollaron un lenguaje simbólico muy elaborado. Buscaron fundamentar las matemáticas con la lógica solamente, y así convertir a las matemáticas en una extensión de la lógica. Progresaron la automatización de la lógica matemática.
+* **Intuicionista:** Pensaban que las matemáticas tenían sentido solamente cuando se aplicaban a cosas dadas por la intuición. La *naturaleza de las matemáticas* está centrada que es una construcción del ser humano y no solo como entes abstractos. Es importante el proceso constructivo y demostrativo de los objetos matemáticos.
+* **Formalismo**: Desarrollaron el concepto de axioma, y lo consideraron como el principal instrumento del ser humano. Es la escuela que fundamenta más ramas de la matemáticas. Crean una comunidad muy grande de  matemáticos en todo el mundo. Es la escuela que más contribuyo a otras áreas de la ciencia. 
+
+En conclusión, considero que el pensamiento matemático es un proceso de construcción que edifica su propio Universo, con sus propias reglas y lenguaje. Es la herramienta para comprender el mundo, y es el propio ser humano que lo crea y utiliza a su modo.
